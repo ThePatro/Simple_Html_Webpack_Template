@@ -60,11 +60,10 @@ typings/
 # next.js build output
 .next
 
-# default public folder for firebase deploy
-public/
-
-# firebase cache
+# firebase project files
 .firebase/
+.firebaserc
+firebase.json
 
 # webpack output folder
 dist/

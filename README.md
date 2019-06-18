@@ -1,6 +1,8 @@
 # Simple_Html_Webpack_Template
 Ready-to-use template for the simple HTML website using webpack module. 
 
+You can check how it looks here: [simple-html-webpack-template](https://simple-html-webpack-template.firebaseapp.com/)
+
 # How to use it
 1) Download repository
 2) Run 'npm install' command to install all necessary packages

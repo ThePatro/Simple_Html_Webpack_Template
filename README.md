@@ -1,5 +1,5 @@
 # Simple_Html_Webpack_Template
-Ready-to-use template for the simple HTML website using webpack module. 
+Ready-to-use template for the simple HTML website using webpack module. It is configured to minimize HTML, CSS and JS. It works for SCSS and ES6 syntax. Bootstrap is installed by default. All necessary files such as images will be automatically copied into dist directory if needed.
 
 You can check how it looks here: [simple-html-webpack-template](https://simple-html-webpack-template.firebaseapp.com/)
 
